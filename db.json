@@ -1,9 +1,67 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server", "author": "typicode" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 }
-    ],
-    "profile": { "name": "typicode" }
-  }
+  "students": [
+    {
+      "id": 1,
+      "fName": "John",
+      "sName": "Doe",
+      "cadre": "Junior"
+    },
+    {
+      "id": 2,
+      "fName": "Jane",
+      "sName": "Doe",
+      "cadre": "senior"
+    },
+    {
+      "id": 3,
+      "fName": "Brad",
+      "sName": "Tom",
+      "cadre": "senior"
+    },
+    {
+      "fName": "dnj",
+      "cadre": "Junior",
+      "id": 4
+    },
+    {
+      "fName": "sadf",
+      "cadre": "Junior",
+      "id": 5
+    },
+    {
+      "fName": "ef",
+      "cadre": "Junior",
+      "id": 6
+    },
+    {
+      "fName": "erkj",
+      "cadre": "Senior",
+      "id": 7
+    },
+    {
+      "fName": "ewfqj",
+      "cadre": "Junior",
+      "id": 8
+    },
+    {
+      "fName": "dfjh",
+      "cadre": "Junior",
+      "id": 9
+    },
+    {
+      "fName": "wef",
+      "cadre": "Senior",
+      "id": 10
+    },
+    {
+      "fName": "dsfakjk",
+      "cadre": "Junior",
+      "id": 11
+    },
+    {
+      "fName": "ergkl",
+      "cadre": "Senior",
+      "id": 12
+    }
+  ]
+}
